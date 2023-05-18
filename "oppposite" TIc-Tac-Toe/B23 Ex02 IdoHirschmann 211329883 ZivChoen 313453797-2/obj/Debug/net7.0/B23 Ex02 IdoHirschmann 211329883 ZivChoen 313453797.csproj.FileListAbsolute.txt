@@ -1,0 +1,8 @@
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj.AssemblyReference.cache
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.AssemblyInfoInputs.cache
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.AssemblyInfo.cs
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj.CoreCompileInputs.cache
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.dll
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/refint/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.dll
+/Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/Debug/net7.0/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.pdb

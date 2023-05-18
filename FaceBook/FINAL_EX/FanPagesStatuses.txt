@@ -1,0 +1,26 @@
+3
+Reg
+Hello! we are fans! This is our first status!
+Mon Jan 16 21:00:28 2023
+Reg
+We belive that Ronaldo is the best!
+Mon Jan 16 21:00:28 2023
+Image
+this is a photo from todays training
+test2
+Mon Jan 16 21:04:13 2023
+2
+Reg
+Hello! we are Messi fans! This is our first status!
+Mon Jan 16 21:00:28 2023
+Reg
+We belive that Messi is the best!
+Mon Jan 16 21:00:28 2023
+2
+Reg
+Hello! we are Neymar fans! This is our first status!
+Mon Jan 16 21:00:28 2023
+Reg
+We belive that Neymar is the best!
+Mon Jan 16 21:00:28 2023
+0

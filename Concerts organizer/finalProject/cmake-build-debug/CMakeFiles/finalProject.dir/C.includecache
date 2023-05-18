@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/InstrumentesPriceListFuncs.h
+stdbool.h
+-
+treefuncs.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/treefuncs.h
+
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/MusiciansGroup.h
+InstrumentesPriceListFuncs.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/InstrumentesPriceListFuncs.h
+treefuncs.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/treefuncs.h
+string.h
+-
+stdbool.h
+-
+
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/concert.c
+concert.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/concert.h
+
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/concert.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+treefuncs.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/treefuncs.h
+MusiciansGroup.h
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/MusiciansGroup.h
+
+/Users/idohirschmann/CLionProjects/semester 2/finalProject/treefuncs.h
+stdio.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/idohirschmann/Documents/GitHub/Projects/\"oppposite\" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj": {}
+  },
+  "projects": {
+    "/Users/idohirschmann/Documents/GitHub/Projects/\"oppposite\" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/idohirschmann/Documents/GitHub/Projects/\"oppposite\" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj",
+        "projectName": "B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797",
+        "projectPath": "/Users/idohirschmann/Documents/GitHub/Projects/\"oppposite\" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797.csproj",
+        "packagesPath": "/Users/idohirschmann/.nuget/packages/",
+        "outputPath": "/Users/idohirschmann/Documents/GitHub/Projects/\"oppposite\" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/idohirschmann/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

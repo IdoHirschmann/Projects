@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = B23_Ex02_IdoHirschmann_211329883_ZivChoen_313453797
+build_property.ProjectDir = /Users/idohirschmann/Documents/GitHub/Projects/"oppposite" TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/
