@@ -1,30 +1,28 @@
 ﻿<Properties StartupConfiguration="{3B03F44E-7B3D-48F3-9BE7-CCA473E84185}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
     <Files>
       <File FileName="Program.cs" />
-      <File FileName="Player.cs" Line="31" Column="21" />
-      <File FileName="UI.cs" Line="85" Column="14" />
-      <File FileName="GameBoard.cs" Line="162" Column="4" />
+      <File FileName="Player.cs" Line="29" Column="5" />
+      <File FileName="UI.cs" />
+      <File FileName="GameBoard.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="B23 Ex02 Ido 211329883 Ziv 313453797" expanded="True">
-            <Node name="B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797" expanded="True">
-              <Node name="Player.cs" selected="True" />
-            </Node>
+            <Node name="B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint enabled="false" file="/Users/idohirschmann/Documents/GitHub/Projects/&quot;oppposite&quot; TIc-Tac-Toe/B23 Ex02 IdoHirschmann 211329883 ZivChoen 313453797-2/UI.cs" relfile="UI.cs" line="56" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.B23_220Ex02_220IdoHirschmann_220211329883_220ZivChoen_220313453797 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
