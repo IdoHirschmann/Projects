@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{863A36A4-B378-42FB-97AA-1C642DBB028A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex03.GarageLogic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ex03.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Ex03.ConsoleUI/Program.cs">
+    <Files>
+      <File FileName="Engine.cs" />
+      <File FileName="Garage.cs" />
+      <File FileName="Vehicle.cs" />
+      <File FileName="ObjectsFactory.cs" />
+      <File FileName="Client.cs" />
+      <File FileName="FuelEngine.cs" />
+      <File FileName="Car.cs" />
+      <File FileName="Truck.cs" />
+      <File FileName="Motorcycle.cs" />
+      <File FileName="Wheel.cs" />
+      <File FileName="../Ex03.ConsoleUI/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="B23 Ex02 Ido 211329883 Ziv 313453797" expanded="True">
+            <Node name="Ex03.ConsoleUI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ex03.GarageLogic" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/idohirschmann/Documents/GitHub/DN_EX03/Ex03.ConsoleUI/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/idohirschmann/Documents/GitHub/DN_EX03/Ex03.ConsoleUI/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/idohirschmann/Documents/GitHub/DN_EX03/Ex03.ConsoleUI/Program.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
